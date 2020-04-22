@@ -6,6 +6,11 @@ You can access the python notebook to look at the code for the analysis.
 
 Data is available in `data` folder.
 
+## Motivation
+The motivation is to get a good knowledge about restaurants in different cities in NCR
+
+Also to know about some of the best available restaurants in the region.
+
 ## Installations
 This project was done on python version 3.7.
 
