@@ -26,6 +26,11 @@ The following libraries were used:-
 git clone https://github.com/pandekartik007/ZomatoDataAnalysis.git
 ```
 ## Results
+The major takeaway from this project was :
+* Gurgaon has most expensive restaurants
+* Delhi has highest variety of restaurants
+* North Indian is the most preferred cuisine followed by Chinese
+
 To get a detailed analysis of all the conclusions from this project you can read my medium article on this.
 
 The medium blog on this analysis can be found [here](https://medium.com/@pandekartik007/zomato-ncr-data-analysis-e7665edb249a).
