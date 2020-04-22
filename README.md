@@ -2,7 +2,7 @@
 This is my first data science project in which I try to analyse the affects of various factors on the popularity and ratings of restaurants in zomato.
 
 ## Description
-You can access the python notebook(https://github.com/pandekartik007/ZomatoDataAnalysis/blob/master/DataAnalysis.ipynb) to look at the code for the analysis. It has code for all the visualisations. 
+You can access the [python notebook](https://github.com/pandekartik007/ZomatoDataAnalysis/blob/master/DataAnalysis.ipynb) to look at the code for the analysis. It has code for all the visualisations. 
 
 Data is available in `data` folder. The csv dataset has a sample size of about 8000 restaurants.
 
