@@ -2,9 +2,9 @@
 This is my first data science project in which I try to analyse the affects of various factors on the popularity and ratings of restaurants in zomato.
 
 ## Description
-You can access the python notebook to look at the code for the analysis.
+You can access the python notebook(https://github.com/pandekartik007/ZomatoDataAnalysis/blob/master/DataAnalysis.ipynb) to look at the code for the analysis. It has code for all the visualisations. 
 
-Data is available in `data` folder.
+Data is available in `data` folder. The csv dataset has a sample size of about 8000 restaurants.
 
 ## Motivation
 The motivation is to get a good knowledge about restaurants in different cities in NCR
@@ -26,6 +26,8 @@ The following libraries were used:-
 git clone https://github.com/pandekartik007/ZomatoDataAnalysis.git
 ```
 ## Results
+To get a detailed analysis of all the conclusions from this project you can read my medium article on this.
+
 The medium blog on this analysis can be found [here](https://medium.com/@pandekartik007/zomato-ncr-data-analysis-e7665edb249a).
 
 ## Acknowledgements
