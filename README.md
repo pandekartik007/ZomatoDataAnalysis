@@ -21,7 +21,7 @@ The following libraries were used:-
 git clone https://github.com/pandekartik007/ZomatoDataAnalysis.git
 ```
 ## Results
-The medium blog on this analysis can be found here.
+The medium blog on this analysis can be found [here](https://medium.com/@pandekartik007/zomato-ncr-data-analysis-e7665edb249a).
 
 ## Acknowledgements
 The data used was obtained from Kaggle. To download the data click [here](https://www.kaggle.com/shrutimehta/zomato-restaurants-data).
